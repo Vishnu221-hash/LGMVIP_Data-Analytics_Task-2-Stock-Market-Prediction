@@ -1,1 +1,2 @@
-# LGMVIP_Data-Analytics_Task-2-Stock-Market-Prediction
+# Stock Market Prediction And Forecasting Using Stacked LSTM
+Stock Price Prediction case study using Keras for RNN
